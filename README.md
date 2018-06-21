@@ -18,3 +18,4 @@
 - [Example Projects](https://twitter.com/search?q=runwayml&src=typd)
 - [Machine Learning En Plein Air: Building accessible tools for artists](https://medium.com/@cvalenzuelab/machine-learning-en-plein-air-building-accessible-tools-for-artists-87bfc7f99f6b?source=activity---post_recommended)
 - Twitter [@runwayml](https://twitter.com/runwayml)
+- Join the [Slack Channel](https://join.slack.com/t/runwayml/shared_invite/enQtMzg1NDIxODQyMzM3LThiYTlkZjI4MDYyMTJhN2VmZTVlZTcyZTY3ZDgyYmVlYmYyOTE1NmRlZGU5NzlkMzk3OTVkMjdiNzNkNjhiZTY)
